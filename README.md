@@ -1,2 +1,2 @@
-# Proj_GHP_Eider_Fabian_Rodas
+# Taller-GHP-2369584
 Repositorio para la clase de GitHub Projects 
